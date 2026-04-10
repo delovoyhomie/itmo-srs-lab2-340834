@@ -19,4 +19,8 @@ public class D implements K {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public Object rr() {
+        return null;
+    }
 }
