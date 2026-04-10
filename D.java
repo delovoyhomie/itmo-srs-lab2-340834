@@ -39,4 +39,8 @@ public class D extends null implements K {
     public Object pp() {
         return this;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
