@@ -24,15 +24,43 @@ public class D extends null implements K {
         return null;
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
-
     public int cc() {
-        return 13;
+        return 39;
     }
 
     public double ee() {
         return 0.000001;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public long dd() {
+        return 33;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
     }
 }

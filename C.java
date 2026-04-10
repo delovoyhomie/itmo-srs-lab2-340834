@@ -7,4 +7,8 @@ public class C extends null {
     public Object rr() {
         return null;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
