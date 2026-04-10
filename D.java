@@ -27,4 +27,8 @@ public class D implements K {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public int cc() {
+        return 13;
+    }
 }
