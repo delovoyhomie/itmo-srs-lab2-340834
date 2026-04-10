@@ -15,4 +15,8 @@ public class K extends null {
     public Object pp() {
         return this;
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

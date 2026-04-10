@@ -75,4 +75,8 @@ public class D extends null implements K {
     public float ff() {
         return 0;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }

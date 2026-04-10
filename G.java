@@ -15,4 +15,8 @@ public class G extends null {
     public Object rr() {
         return null;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }

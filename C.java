@@ -15,4 +15,8 @@ public class C extends null {
     public double ad() {
         return 12.12;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
