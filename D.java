@@ -1,4 +1,4 @@
-public class D implements K {
+public class D extends null implements K {
 
     private double d = 100.500;
 
@@ -24,6 +24,10 @@ public class D implements K {
         return null;
     }
 
+    public double ad() {
+        return 11.09;
+    }
+
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
@@ -32,7 +36,15 @@ public class D implements K {
         return 13;
     }
 
-    public double ad() {
-        return 11.09;
+    public Object pp() {
+        return this;
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
     }
 }
