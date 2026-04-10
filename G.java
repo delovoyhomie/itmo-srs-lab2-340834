@@ -7,4 +7,12 @@ public class G extends null {
     public String kk() {
         return "No";
     }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public Object rr() {
+        return null;
+    }
 }
