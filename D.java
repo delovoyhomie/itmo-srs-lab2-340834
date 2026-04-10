@@ -1,4 +1,4 @@
-public class D implements K {
+public class D extends null implements K {
 
     private double d = 100.500;
 
@@ -26,5 +26,17 @@ public class D implements K {
 
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public Object pp() {
+        return this;
     }
 }
