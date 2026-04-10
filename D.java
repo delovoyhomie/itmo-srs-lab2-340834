@@ -31,4 +31,8 @@ public class D extends null implements K {
     public int cc() {
         return 13;
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
