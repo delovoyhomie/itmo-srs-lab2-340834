@@ -47,4 +47,8 @@ public class D extends null implements K {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
