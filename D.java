@@ -35,4 +35,8 @@ public class D implements K {
     public double ad() {
         return 11.09;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
